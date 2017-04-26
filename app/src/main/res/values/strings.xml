@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Elegant Media Assignment</string>
+    <string name="facebook_app_id">1192925150823389</string>
+    <string name="facebook_account_kit_client_token">2855710061ee71b46d2fc319f540b288</string>
+    <string name="fb_login_protocol_scheme">fb1192925150823389</string>
+    <string name="log_in_caption">Looks like you\'ve not logged in yet !</string>
+    <string name="login">Login</string>
+    <string name="total_friends">Total Friends</string>
+    <string name="logout">Logout</string>
+    <string name="looks_like_you_have_no_friends">Looks like you have no friends :( Maybe you haven\'t been added as
+        a tester!</string>
+</resources>
